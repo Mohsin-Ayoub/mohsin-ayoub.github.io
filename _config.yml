@@ -1,0 +1,34 @@
+# _config.yml
+
+title: "Mohsin Ayoub's Portfolio"
+description: "A professional portfolio showcasing my skills, experience, and projects."
+author: Mohsin Ayoub
+email: mohsinabbasi009@gmail.com
+theme: jekyll-theme-minimal
+baseurl: "" # Leave blank unless the site is hosted in a subdirectory
+url: "https://your-github-username.github.io" # Replace with your GitHub Pages URL
+
+# Social links
+social_links:
+  - name: LinkedIn
+    url: "https://linkedin.com/in/mohsin-ayoub"
+  - name: GitHub
+    url: "https://github.com/Mohsin-Ayoub/mohsin-ayoub.github.io"
+  - name: WhatsApp
+    url: "https://wa.me/923421544632"
+
+# Navigation links
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about"
+  - title: "Projects"
+    url: "/projects"
+  - title: "Contact"
+    url: "/contact"
+
+# Markdown options
+markdown: kramdown
+kramdown:
+  input: GFM
