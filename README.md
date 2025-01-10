@@ -1,2 +1,72 @@
-# mohsin-ayoub.github.io
+# mohsin-ayoub.github.io# Mohsin Ayoub
+**Julius-Brecht-Str 5, 60433 Frankfurt am Main, Germany**  
+📧 [mohsinabbasi009@gmail.com](mailto:mohsinabbasi009@gmail.com) | 📞 (+49) 15211448247 | [LinkedIn](https://linkedin.com/in/mohsin-ayoub) | [GitHub](https://github.com/Mohsin-Ayoub/mohsin-ayoub.github.io) | [WhatsApp](https://wa.me/923421544632)
+
+---
+
+## ABOUT ME
+Enthusiastic and detail-oriented software developer with extensive experience in backend and full-stack development using technologies like .NET Core, C#, SQL Server, and JavaScript frameworks. Skilled in building scalable and reliable software solutions, leading teams, and ensuring project success through agile methodologies. Passionate about contributing to innovative development projects in areas like AI, cloud computing, or enterprise software, and excelling in roles that combine technical expertise with team leadership.
+
+---
+
+## WORK EXPERIENCE (3 Years)
+
+### Asp.Net Core Developer, Panda Tech  
+*(01/04/2023 – 31/10/2024, Islamabad, Pakistan)*  
+- Developed backend solutions using .NET Core, C#, and SQL Server, and frontend with ASP.NET MVC, Knockout.js, HTML, CSS, JavaScript, and jQuery.  
+- Managed version control with GitLab and Source Tree.  
+- Led a team of 3 developers, overseeing task assignments, code reviews, and project decisions.  
+- Ensured project timelines and milestones were met through effective sprint management.  
+
+### Asp.Net MVC Developer, ISLO Technologies (Pvt.) Ltd  
+*(01/08/2021 – 31/03/2023, Rawalpindi, Pakistan)*  
+- Developed overall application from scratch.  
+- Added new features to the application.  
+- Solved complex problems and fixed bugs to ensure application reliability.  
+
+### Volunteer Secretary Information, CS Society (Computer Science Dept, FUUAST)  
+*(01/04/2022 – 01/05/2023, Islamabad, Pakistan)*  
+- Managed event schedules, records, and communications.  
+- Handled social media campaigns, content creation, and updates.  
+
+---
+
+## EDUCATION AND TRAINING
+
+### M.Sc High Integrity Systems  
+Frankfurt University of Applied Sciences *(01/10/2024 – Current, Frankfurt am Main, Germany)*  
+[www.frankfurt-uas.de](https://www.frankfurt-uas.de)  
+EQF Level: 7  
+
+### B.S (Computer Science)  
+Federal Urdu University of Arts, Sciences & Technology *(10/09/2019 – 11/08/2023, Islamabad, Pakistan)*  
+- CGPA: 3.71/4.0 (Equivalent to 1.5 in the German grading system)  
+[www.fuuastisb.edu.pk](https://www.fuuastisb.edu.pk)  
+
+### Supervised Machine Learning: Regression and Classification  
+Stanford University *(Coursera)*  
+
+---
+
+## RELEVANT COURSEWORK AND GRADES
+- **Machine Learning** – GPA: 1.0  
+- **Artificial Intelligence** – GPA: 1.6  
+- **Data Science** – GPA: 1.0  
+- **Database Management Systems** – GPA: 1.0  
+- **Design & Analysis of Algorithms** – GPA: 1.0  
+
+---
+
+## DIGITAL SKILLS
+- **Programming Languages**: C, C++, Java, C#, HTML, MS SQL Server  
+- **Frontend**: HTML, CSS, JavaScript, jQuery, Knockout.js, Ajax  
+- **Backend**: .NET / .NET Core / .NET Framework  
+- **Development Tools**: Git, Source Tree  
+- **Development Methodologies**: Scrum, Kanban  
+- **Web Development**: HTML/CSS, JavaScript  
+- **Social Media Management**  
+- **Leadership**: Managed a team of 3  
+- **Organizational and Planning Skills**  
+- **Microsoft Office Tools**  
+
 Portfolio Resume
