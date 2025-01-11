@@ -16,7 +16,8 @@ Enthusiastic and detail-oriented software developer with extensive experience in
 
 ---
 
-## WORK EXPERIENCE (3 Years)
+## WORK EXPERIENCE ![Static Badge](https://img.shields.io/badge/3_Years-white?style=flat&logo=fsecure&logoColor=white&labelColor=blue&color=blue)
+
 
 ### Asp.Net Core Developer, Panda Tech  
 *(01/04/2023 – 31/10/2024, Islamabad, Pakistan)*  
