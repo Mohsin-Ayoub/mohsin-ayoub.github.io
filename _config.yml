@@ -2,16 +2,6 @@
 
 title: "Mohsin Ayoub's Portfolio"
 logo: "/PIC Portfolio.png"
-description: 
-<br/>
-Team-Oriented Software Developer | .NET Core, C# | Passionate About Growth
-<br/>
-
-<a href="https://www.linkedin.com/in/mohsin-ayoub/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:rajputvishal33876@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+description: "Team-Oriented Software Developer | .NET Core, C# | Passionate About Growth"
 
 theme: jekyll-theme-minimal
