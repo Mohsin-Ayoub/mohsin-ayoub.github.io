@@ -1,5 +1,4 @@
 
-**Julius-Brecht-Str 5, 60433 Frankfurt am Main, Germany**  
  <div>
     <a href="https://www.linkedin.com/in/mohsin-ayoub/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -11,6 +10,7 @@
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
   </div>
+  
 ## ABOUT ME
 Enthusiastic and detail-oriented software developer with extensive experience in backend and full-stack development using technologies like .NET Core, C#, SQL Server, and JavaScript frameworks. Skilled in building scalable and reliable software solutions, leading teams, and ensuring project success through agile methodologies. Passionate about contributing to innovative development projects in areas like AI, cloud computing, or enterprise software, and excelling in roles that combine technical expertise with team leadership.
 
