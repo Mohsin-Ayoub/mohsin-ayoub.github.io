@@ -69,7 +69,6 @@ Stanford University *(Coursera)*
 - **Programming Languages**: ![Static Badge](https://img.shields.io/badge/C-white?style=flat&logo=C&logoColor=white&labelColor=grey&color=white)
 ![Static Badge](https://img.shields.io/badge/C%23-white?style=flat&logo=C&logoColor=white&labelColor=blue&color=blue)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-white?style=flat&logo=cplusplus&logoColor=black&labelColor=white&color=grey)
-
 ![Static Badge](https://img.shields.io/badge/Knockout.js-white?style=flat&logo=klook&logoColor=white&labelColor=black&color=blue)
 ![Static Badge](https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript&logoColor=black&labelColor=purple&color=green)
 ![Static Badge](https://img.shields.io/badge/SQL_server-white?style=flat&logo=sqlite&logoColor=white&labelColor=grey&color=grey) 
