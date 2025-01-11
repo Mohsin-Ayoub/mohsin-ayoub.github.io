@@ -65,7 +65,7 @@ Stanford University *(Coursera)*
 ---
 
 ## DIGITAL SKILLS
-![Static Badge](https://img.shields.io/badge/C-%2306cfcb?style=flat&logo=c&logoColor=white)
+![Static Badge](https://img.shields.io/badge/C-white?style=flat&logo=C&logoColor=white&labelColor=grey&color=white)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-white?style=flat&logo=cplusplus&logoColor=black&labelColor=light-blue)
 ![Static Badge](https://img.shields.io/badge/Knockout.js-blue?style=flat&logo=klook&logoColor=black)
 <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style-for-the-badge&logo=c&logoColor white" style="margin: 2px;"/> <img alt="C++" style="margin:2px;"
