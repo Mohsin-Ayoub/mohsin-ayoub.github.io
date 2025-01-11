@@ -65,7 +65,6 @@ src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style-for-the-badge&logo
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style-for-the-badge&logo-javascript&logoColor=%23F7DF1E" style="margin: 2px;"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style-for-the-badge&logo-bootstrap&logoColor=white"
 style="margin: 2px;"/>
-<img alt="Tailwind CSS" src="https://img.shields.io/static/v1styleforthebadge&message=Tailwind+CSS&color=222222&logoTailwind+CSS&logoColor=06B6D4&label=" style="margin: 2px;"/>
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style-for-the-badge&logo-react&logoColor=%2361DAFB" style="margin: 2px;"/>
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style-for-the-badge&logo-react&logoColor=%2361DAFB"
 style="margin: 2px;"/>
