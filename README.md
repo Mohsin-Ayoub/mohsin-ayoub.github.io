@@ -65,31 +65,26 @@ Stanford University *(Coursera)*
 ---
 
 ## DIGITAL SKILLS
-![Static Badge](https://img.shields.io/badge/C-white?style=flat&logo=C&logoColor=white&labelColor=grey&color=white)
+
+- **Programming Languages**: ![Static Badge](https://img.shields.io/badge/C-white?style=flat&logo=C&logoColor=white&labelColor=grey&color=white)
+![Static Badge](https://img.shields.io/badge/C%23-white?style=flat&logo=C&logoColor=white&labelColor=blue&color=blue)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-white?style=flat&logo=cplusplus&logoColor=black&labelColor=white&color=grey)
 ![Static Badge](https://img.shields.io/badge/Knockout.js-white?style=flat&logo=klook&logoColor=white&labelColor=black&color=blue)
 ![Static Badge](https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript&logoColor=black&labelColor=purple&color=green)
-<img alt="HTML5" src="https://img.shields.io/static/v1?style-for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=" style="margin: 2px;"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style-for-the-badge&logo=css3&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style-for-the-badge&logo-javascript&logoColor=%23F7DF1E" style="margin: 2px;"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style-for-the-badge&logo-bootstrap&logoColor=white"
-style="margin: 2px;"/>
-<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style-for-the-badge&logo-react&logoColor=%2361DAFB" style="margin: 2px;"/>
-<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style-for-the-badge&logo-react&logoColor=%2361DAFB"
-style="margin: 2px;"/>
-<img alt="NextJS" 
-src="https://img.shields.io/static/v1?style-for-the-badge&message=Next]S&color=000000&logo=Next.js&logoColor=FFFFFF&label=" style="margin: 2px;"/>
-<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style-for-the-badge&logo=git&logoColor=white" style="margin:2px;"/> <img alt="GitHub"
-src="https://img.shields.io/badge/github%20-%23121011.svg?&style-for-the-badge&logo-github&logoColor=white"
-style="margin:2px;"/>
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-X234ea94b.svg?&style-for-the-badge&logo-mongodb&logoColor=white" style="margin: 2px;"/>
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%23438530.svg?&style-for-the-badge&logo=node.js&logoColor=white" style="margin:2px;"/>
-- **Programming Languages**: C, C++, Java, C#, HTML, MS SQL Server  
-- **Frontend**: HTML, CSS, JavaScript, jQuery, Knockout.js, Ajax  
-- **Backend**: .NET / .NET Core / .NET Framework  
-- **Development Tools**: Git, Source Tree  
-- **Development Methodologies**: Scrum, Kanban  
-- **Web Development**: HTML/CSS, JavaScript  
+![Static Badge](https://img.shields.io/badge/SQL_server-white?style=flat&logo=sqlite&logoColor=white&labelColor=grey&color=grey) 
+- **Frontend**: ![Static Badge](https://img.shields.io/badge/HTML5-white?style=flat&logo=html5&logoColor=white&labelColor=black&color=%2523563D7C)
+![Static Badge](https://img.shields.io/badge/CSS-white?style=flat&logo=css&logoColor=black&labelColor=white&color=orange)
+![Static Badge](https://img.shields.io/badge/Bootstrap-white?style=flat&logo=bootstrap&logoColor=black&labelColor=white&color=%2523563D7C)
+![Static Badge](https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript&logoColor=black&labelColor=purple&color=green)
+![Static Badge](https://img.shields.io/badge/jquery-white?style=flat&logo=jquery&logoColor=white&labelColor=grey&color=grey)
+- **Backend**: .NET / ![Static Badge](https://img.shields.io/badge/.Net_Core-white?style=flat&logo=dotnet&logoColor=white&labelColor=orange&color=orange) / .NET Framework  
+- **Development Tools**: ![Static Badge](https://img.shields.io/badge/git-white?style=flat&logo=git&logoColor=black&labelColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/github-white?style=flat&logo=github&logoColor=black&labelColor=white&color=grey)
+![Static Badge](https://img.shields.io/badge/SourceTree-white?style=flat&logo=sourcetree&logoColor=white&labelColor=blue&color=blue)
+- **Development Methodologies**: ![Static Badge](https://img.shields.io/badge/scrum-white?style=flat&logo=progress&logoColor=white&labelColor=grey&color=grey), Kanban  
+- **Web Development**: ![Static Badge](https://img.shields.io/badge/HTML5-white?style=flat&logo=html5&logoColor=white&labelColor=black&color=%2523563D7C)
+![Static Badge](https://img.shields.io/badge/CSS-white?style=flat&logo=css&logoColor=black&labelColor=white&color=orange)
+![Static Badge](https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript&logoColor=black&labelColor=purple&color=green)  
 - **Social Media Management**  
 - **Leadership**: Managed a team of 3  
 - **Organizational and Planning Skills**  
