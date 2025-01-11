@@ -72,25 +72,19 @@ Stanford University *(Coursera)*
 ![Static Badge](https://img.shields.io/badge/Knockout.js-white?style=flat&logo=klook&logoColor=white&labelColor=black&color=blue)
 ![Static Badge](https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript&logoColor=black&labelColor=purple&color=green)
 ![Static Badge](https://img.shields.io/badge/SQL_server-white?style=flat&logo=sqlite&logoColor=white&labelColor=grey&color=grey) 
-
 - **Frontend**: ![Static Badge](https://img.shields.io/badge/HTML5-white?style=flat&logo=html5&logoColor=white&labelColor=black&color=%2523563D7C)
 ![Static Badge](https://img.shields.io/badge/CSS-white?style=flat&logo=css&logoColor=black&labelColor=white&color=orange)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-white?style=flat&logo=bootstrap&logoColor=black&labelColor=white&color=%2523563D7C)
 ![Static Badge](https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript&logoColor=black&labelColor=purple&color=green)
 ![Static Badge](https://img.shields.io/badge/jquery-white?style=flat&logo=jquery&logoColor=white&labelColor=grey&color=grey)
-
 - **Backend**: .NET / ![Static Badge](https://img.shields.io/badge/.Net_Core-white?style=flat&logo=dotnet&logoColor=white&labelColor=orange&color=orange) / .NET Framework
-  
 - **Development Tools**: ![Static Badge](https://img.shields.io/badge/git-white?style=flat&logo=git&logoColor=black&labelColor=white&color=blue)
 ![Static Badge](https://img.shields.io/badge/github-white?style=flat&logo=github&logoColor=black&labelColor=white&color=grey)
 ![Static Badge](https://img.shields.io/badge/SourceTree-white?style=flat&logo=sourcetree&logoColor=white&labelColor=blue&color=blue)
-
 - **Development Methodologies**: ![Static Badge](https://img.shields.io/badge/scrum-white?style=flat&logo=progress&logoColor=white&labelColor=grey&color=grey), Kanban
-  
 - **Web Development**: ![Static Badge](https://img.shields.io/badge/HTML5-white?style=flat&logo=html5&logoColor=white&labelColor=black&color=%2523563D7C)
 ![Static Badge](https://img.shields.io/badge/CSS-white?style=flat&logo=css&logoColor=black&labelColor=white&color=orange)
 ![Static Badge](https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript&logoColor=black&labelColor=purple&color=green)
-
 - **Social Media Management**  
 - **Leadership**: Managed a team of 3  
 - **Organizational and Planning Skills**  
