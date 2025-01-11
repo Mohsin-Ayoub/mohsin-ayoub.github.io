@@ -67,9 +67,6 @@ src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style-for-the-badge&logo
 style="margin: 2px;"/>
 <img alt="Tailwind CSS" src="https://img.shields.io/static/v1styleforthebadge&message=Tailwind+CSS&color=222222&logoTailwind+CSS&logoColor=06B6D4&label=" style="margin: 2px;"/>
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style-for-the-badge&logo-react&logoColor=%2361DAFB" style="margin: 2px;"/>
-
-<img alt="Tailwind CSS" 
-src="https://img.shields.io/static/v1?style-for-the-badge&message=Tailwind+CSS&color=222222&logo-Tailwind+CSS&logoColor=06B6D4&label=" style="margin: 2px;"/>
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style-for-the-badge&logo-react&logoColor=%2361DAFB"
 style="margin: 2px;"/>
 <img alt="NextJS" 
