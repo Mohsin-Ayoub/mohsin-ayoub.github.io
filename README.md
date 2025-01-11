@@ -47,7 +47,7 @@ EQF Level: 7
 
 ### B.S (Computer Science)  
 Federal Urdu University of Arts, Sciences & Technology *(10/09/2019 – 11/08/2023, Islamabad, Pakistan)*  
-- CGPA: 3.71/4.0 (Equivalent to 1.5 in the German grading system)  
+- ![Static Badge](https://img.shields.io/badge/GPA%3A_3%2C71/4%2C0-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue) (Equivalent to 1.5 in the German grading system)  
 [www.fuuastisb.edu.pk](https://www.fuuastisb.edu.pk)  
 
 ### Supervised Machine Learning: Regression and Classification  
@@ -56,11 +56,11 @@ Stanford University *(Coursera)*
 ---
 
 ## RELEVANT COURSEWORK AND GRADES
-- **Machine Learning** – GPA: 1.0  
-- **Artificial Intelligence** – GPA: 1.6  
-- **Data Science** – GPA: 1.0  
-- **Database Management Systems** – GPA: 1.0  
-- **Design & Analysis of Algorithms** – GPA: 1.0  
+- **Machine Learning**  ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C0-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)
+- **Artificial Intelligence** – ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C6-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)
+- **Data Science** ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C0-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)
+- **Database Management Systems** ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C0-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)
+- **Design & Analysis of Algorithms** ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C0-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)
 
 ---
 
