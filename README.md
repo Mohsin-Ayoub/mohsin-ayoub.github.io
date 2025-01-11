@@ -68,8 +68,7 @@ Stanford University *(Coursera)*
 ![Static Badge](https://img.shields.io/badge/C-white?style=flat&logo=C&logoColor=white&labelColor=grey&color=white)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-white?style=flat&logo=cplusplus&logoColor=black&labelColor=white&color=grey)
 ![Static Badge](https://img.shields.io/badge/Knockout.js-white?style=flat&logo=klook&logoColor=white&labelColor=black&color=blue)
-<img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style-for-the-badge&logo=c&logoColor white" style="margin: 2px;"/> <img alt="C++" style="margin:2px;"
-src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style-for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style-for-the-badge&logo=python&logoColor=white" style="margin:2px;"/>
+![Static Badge](https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript&logoColor=black&labelColor=purple&color=green)
 <img alt="HTML5" src="https://img.shields.io/static/v1?style-for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=" style="margin: 2px;"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style-for-the-badge&logo=css3&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style-for-the-badge&logo-javascript&logoColor=%23F7DF1E" style="margin: 2px;"/>
