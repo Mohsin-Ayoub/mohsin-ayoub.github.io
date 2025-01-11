@@ -3,7 +3,17 @@
 📧 [mohsinabbasi009@gmail.com](mailto:mohsinabbasi009@gmail.com) | 📞 (+49) 15211448247 | [LinkedIn](https://linkedin.com/in/mohsin-ayoub) | [GitHub](https://github.com/Mohsin-Ayoub/mohsin-ayoub.github.io) | [WhatsApp](https://wa.me/923421544632)
 
 ---
-
+ <div>
+    <a href="https://www.linkedin.com/in/mohsin-ayoub/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:rajputvishal33876@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://github.com/mohsinayoub" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+  </div>
 ## ABOUT ME
 Enthusiastic and detail-oriented software developer with extensive experience in backend and full-stack development using technologies like .NET Core, C#, SQL Server, and JavaScript frameworks. Skilled in building scalable and reliable software solutions, leading teams, and ensuring project success through agile methodologies. Passionate about contributing to innovative development projects in areas like AI, cloud computing, or enterprise software, and excelling in roles that combine technical expertise with team leadership.
 
