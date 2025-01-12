@@ -90,6 +90,21 @@
                                 <span class="achievement-badge">Delivered projects on time</span>
                             </div>
                         </div>
+<p><strong>Description:</strong> Directed the development of a feature-rich Purchase Order solution to streamline procurement processes and enhance workflow efficiency.</p>
+                        
+                        <div class="">
+                            
+                                <ul>
+                                    <li>Streamlined Procurement Processes: Introduced one-click approval processes, simplifying Purchase Order management challenges.</li>
+                                    <li>Enabled employees to issue, copy, and manage purchase orders seamlessly, including attachments and automatic email notifications for approvals.</li>
+                                    <li>Multi-level Approval System: Implemented a multi-level approval system, allowing managers to approve orders from anywhere, enhancing accessibility and workflow efficiency.</li>
+                                    <li>Comprehensive Functionality: Developed functionalities for Finance, enabling payment additions, data export in CSV or PDF formats, and customization options such as PO form tailoring.</li>
+                                    <li>User-Friendly Interface: Utilized .NET MVC on the frontend, ensuring a seamless and user-friendly interface for Expeni.</li>
+                                    <li>Team Leadership and Project Management: Led a team of 3 developers, overseeing task assignments, conducting daily status meetings, and actively participating in decision-making processes.</li>
+                                </ul>
+                          
+                        </div>
+                        //
                         <a href="https://app.expeni.com/home/login" target="_blank">View Project</a>
                     </div>
                 </div>
@@ -123,6 +138,23 @@
                                 <span class="achievement-badge">Enhanced efficiency by 40%</span>
                             </div>
                         </div>
+                         <p><strong>Description:</strong> An online-based Educational System with multiple modules to manage academic and administrative tasks efficiently.</p>
+                      
+                        <div class="">
+                            <p>Modules include:
+                                <ul>
+                                    <li>Academics Management</li>
+                                    <li>Student Management</li>
+                                    <li>Attendance Management</li>
+                                    <li>HR Management</li>
+                                    <li>Exam Management</li>
+                                    <li>Fee Management</li>
+                                    <li>Inventory Management</li>
+                                    <li>Teacher Management</li>
+                                    <li>Student/Parent Portal</li>
+                                </ul>
+                            </p>
+                        </div>
                         <a href="http://cms.islotechnologies.com" target="_blank">View Project</a>
                     </div>
                 </div>
@@ -143,6 +175,23 @@
                                 <span class="achievement-badge">Handled 1 company and 120 users</span>
                             </div>
                         </div>
+<p><strong>Description:</strong> A web-based system serving students, teachers, admin, and parents for managing academy activities.</p>
+                        
+                        <div class="">
+                            <p>Modules:
+                                <ul>
+                                    <li>Admin Panel</li>
+                                    <li>Student Management</li>
+                                    <li>Academic Management</li>
+                                    <li>Attendance Management</li>
+                                    <li>Fee Management</li>
+                                    <li>Staff Management</li>
+                                    <li>Teacher Management</li>
+                                    <li>Student Portal</li>
+                                    <li>Parent Portal</li>
+                                </ul>
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -161,6 +210,17 @@
                                 <span class="achievement-badge">Improved efficiency by 50%</span>
                                 <span class="achievement-badge">Handled 1 company and 90 users</span>
                             </div>
+                        </div>
+<p><strong>Description:</strong> An application to facilitate buying and selling through auctions, enhancing reach and efficiency for users.</p>
+                        
+                        <div class="">
+                            <p>Modules:
+                                <ul>
+                                    <li>Admin</li>
+                                    <li>Buyer</li>
+                                    <li>Seller</li>
+                                </ul>
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -186,6 +246,22 @@
                                 <span class="achievement-badge">Handled 2 companies and 200 users</span>
                             </div>
                         </div>
+ <p><strong>Description:</strong> A comprehensive system to manage various office operations effectively.</p>
+                       
+                        <div class="">
+                            <p>Modules:
+                                <ul>
+                                    <li>System Management</li>
+                                    <li>HR Management</li>
+                                    <li>Supply Chain Management</li>
+                                    <li>Inventory Management</li>
+                                    <li>Assets Management</li>
+                                    <li>Project Management</li>
+                                    <li>Work Logs Management</li>
+                                    <li>Operations Management</li>
+                                </ul>
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -209,6 +285,20 @@
                                 <span class="achievement-badge">Improved efficiency by 50%</span>
                                 <span class="achievement-badge">Handled 2 companies and 200 users</span>
                             </div>
+                        </div>
+<p><strong>Description:</strong> A web-based solution to streamline gym operations and management.</p>
+                       
+                        <div class="">
+                            <p>Modules:
+                                <ul>
+                                    <li>Accounts Management</li>
+                                    <li>Attendance Management</li>
+                                    <li>Member Management</li>
+                                    <li>Staff Management</li>
+                                    <li>Store Management</li>
+                                    <li>Admin Panel</li>
+                                </ul>
+                            </p>
                         </div>
                     </div>
                 </div>
