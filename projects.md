@@ -156,7 +156,7 @@
                             </p>
                         </div>
                          </div>
-                        <a href="http://cms.islotechnologies.com" target="_blank">View Project</a>
+                        <a href="http://124.109.61.169:8088" target="_blank">View Project</a>
                     </div>
                 </div>
             </div>
