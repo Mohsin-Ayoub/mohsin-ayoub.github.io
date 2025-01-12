@@ -64,7 +64,7 @@
             <!-- Expeni Project -->
             <div class="col-12">
                 <div class="project-card">
-                    
+                    <img src="./pandatech.jpg" alt="Expeni Project">
                     <div class="card-body">
                         <h5>Expeni - Purchase Order Management Solution</h5>
                         <p><strong>Company:</strong> Panda Tech</p>
