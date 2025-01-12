@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -40,7 +40,7 @@
         <h1 class="text-center mb-5">My Projects</h1>
         <div class="row">
             <!-- Expeni Project -->
-            <div class="col-md-6">
+            <div class="col-md-12">
                 <div class="project-card">
                     <img src="images/expeni.png" alt="Expeni Project">
                     <div class="card-body">
@@ -55,7 +55,7 @@
             </div>
 
             <!-- Campus Management System -->
-            <div class="col-md-6">
+            <div class="col-md-12">
                 <div class="project-card">
                     <img src="images/cms.png" alt="Campus Management System">
                     <div class="card-body">
@@ -70,7 +70,7 @@
             </div>
 
             <!-- Online Quran Academy Management System -->
-            <div class="col-md-6">
+            <div class="col-md-12">
                 <div class="project-card">
                     <img src="images/quran_academy.png" alt="Online Quran Academy Management System">
                     <div class="card-body">
@@ -84,7 +84,7 @@
             </div>
 
             <!-- Online Auction System -->
-            <div class="col-md-6">
+            <div class="col-md-12">
                 <div class="project-card">
                     <img src="images/auction_system.png" alt="Online Auction System">
                     <div class="card-body">
@@ -98,7 +98,7 @@
             </div>
 
             <!-- Office Management System -->
-            <div class="col-md-6">
+            <div class="col-md-12">
                 <div class="project-card">
                     <img src="images/oms.png" alt="Office Management System">
                     <div class="card-body">
@@ -113,7 +113,7 @@
             </div>
 
             <!-- Gym Management System -->
-            <div class="col-md-6">
+            <div class="col-md-12">
                 <div class="project-card">
                     <img src="images/gms.png" alt="Gym Management System">
                     <div class="card-body">
