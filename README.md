@@ -64,13 +64,13 @@ Stanford University *(Coursera)*
 - **Database Management Systems** ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C0_🥇-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)
 - **Design & Analysis of Algorithms** ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C0_🥇-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)
 
-| Course                      | GPA               |
-|:----------------------------|:------------------|
-| **Machine Learning**        | ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C0_🥇-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue) |
-| **Artificial Intelligence** | ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C6_🥈-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue) |
-| **Data Science**          | ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C0_🥇-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)      |
-| **Database Management Systems**          | ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C0_🥇-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue) |
-| **Design & Analysis of Algorithms** | ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C0_🥇-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)|
+| Course                              | GPA                                                                                                                                  |
+|:------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------|
+| **Machine Learning**                | ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C0_🥇-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)  |
+| **Artificial Intelligence**         | ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C6_🥈-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)  |
+| **Data Science**                    | ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C0_🥇-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)  |
+| **Database Management Systems**     | ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C0_🥇-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)  |
+| **Design & Analysis of Algorithms** | ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C0_🥇-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)  |
 ---
 
 ## DIGITAL SKILLS
