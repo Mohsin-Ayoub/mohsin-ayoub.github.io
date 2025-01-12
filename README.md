@@ -10,6 +10,7 @@
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
   </div>
+  [Projects](./projects.html).
   
 ## ABOUT ME
 Enthusiastic and detail-oriented software developer with extensive experience in backend and full-stack development using technologies like .NET Core, C#, SQL Server, and JavaScript frameworks. Skilled in building scalable and reliable software solutions, leading teams, and ensuring project success through agile methodologies. Passionate about contributing to innovative development projects in areas like AI, cloud computing, or enterprise software, and excelling in roles that combine technical expertise with team leadership.
@@ -58,11 +59,18 @@ Stanford University *(Coursera)*
 
 ## RELEVANT COURSEWORK AND GRADES
 - **Machine Learning**  ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C0_🥇-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)
-- **Artificial Intelligence** – ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C6_🥈-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)
+- **Artificial Intelligence**  ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C6_🥈-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)
 - **Data Science** ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C0_🥇-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)
 - **Database Management Systems** ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C0_🥇-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)
 - **Design & Analysis of Algorithms** ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C0_🥇-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)
 
+| Course                      | GPA               |
+|:----------------------------|:------------------|
+| **Machine Learning**        | ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C0_🥇-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue) |
+| **Artificial Intelligence** | ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C6_🥈-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue) |
+| **Data Science**          | ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C0_🥇-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)      |
+| **Database Management Systems**          | ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C0_🥇-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue) |
+| **Design & Analysis of Algorithms** | ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C0_🥇-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)|
 ---
 
 ## DIGITAL SKILLS
