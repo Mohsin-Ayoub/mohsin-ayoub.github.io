@@ -64,7 +64,7 @@
             <!-- Expeni Project -->
             <div class="col-12">
                 <div class="project-card">
-                    <img src="images/expeni.png" alt="Expeni Project">
+                    <img src="./panda tech logo.jpg" alt="Expeni Project">
                     <div class="card-body">
                         <h5>Expeni - Purchase Order Management Solution</h5>
                         <p><strong>Company:</strong> Panda Tech</p>
@@ -113,7 +113,7 @@
             <!-- CMS Project -->
             <div class="col-12">
                 <div class="project-card">
-                    <img src="images/cms.png" alt="CMS Project">
+                    <img src="./isloLogo .png" alt="CMS Project">
                     <div class="card-body">
                         <h5>Campus Management System (CMS)</h5>
                         <p><strong>Company:</strong> ISLO Technologies</p>
@@ -164,7 +164,7 @@
             <!-- Quran Academy Management System -->
             <div class="col-12">
                 <div class="project-card">
-                    <img src="images/quran_academy.png" alt="Quran Academy Management System">
+                    <img src="./Holy.-Logo.8.png" alt="Quran Academy Management System">
                     <div class="card-body">
                         <h5>Online Quran Academy Management System</h5>
                         <p><strong>Role:</strong> Full-stack developer - Designed database, backend, and frontend, and provided maintenance.</p>
@@ -232,7 +232,7 @@
             <!-- Office Management System -->
             <div class="col-12">
                 <div class="project-card">
-                    <img src="images/office_management.png" alt="Office Management System">
+                    <img src="./isloLogo .png" alt="Office Management System">
                     <div class="card-body">
                         <h5>Office Management System (OMS)</h5>
                         <p><strong>Role:</strong> Developer - Interacted with clients, gathered requirements, provided support and maintenance, and worked as a full-stack developer.</p>
@@ -273,7 +273,7 @@
             <!-- Gym Management System -->
             <div class="col-12">
                 <div class="project-card">
-                    <img src="images/gym_management.png" alt="Gym Management System">
+                    <img src="./isloLogo .png" alt="Gym Management System">
                     <div class="card-body">
                         <h5>Gym Management System (GMS)</h5>
                         <p><strong>Role:</strong> Developer - Interacted with clients, gathered requirements, provided support and maintenance, and worked as a full-stack developer.</p>
