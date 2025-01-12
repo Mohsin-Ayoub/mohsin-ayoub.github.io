@@ -68,7 +68,7 @@
                     <div class="card-body">
                         <h5>Expeni - Purchase Order Management Solution</h5>
                         <p><strong>Company:</strong> Panda Tech</p>
-                        <p><strong>Duration:</strong> 04/2023 - 10/2025</p>
+                        <p><strong>Duration:</strong> 04/2023 - 10/2024</p>
                         <p><strong>Tools:</strong> .NET Core, C#, SQL Server, ASP.NET MVC, Knockout.js, HTML, CSS, JavaScript, jQuery</p>
                         <p><strong>Role:</strong> Led a team of 3 developers, conducted sprint meetings, weekly planning, code reviews, and contributed to coding.</p>
                         <span class="show-more" onclick="toggleDescription(this)">Show more</span>
