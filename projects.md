@@ -113,7 +113,7 @@
             <!-- CMS Project -->
             <div class="col-12">
                 <div class="project-card">
-                    <img src="./ASASpic.png" alt="Expeni Project">
+                    <img src="./ASASpic.png" alt="CMS">
                     <div class="card-body">
                         <h5>Campus Management System (CMS)</h5>
                         <p><strong>Company:</strong> ISLO Technologies</p>
@@ -164,7 +164,7 @@
             <!-- Quran Academy Management System -->
             <div class="col-12">
                 <div class="project-card">
-                    <img src="./OQAPIC.png" alt="Expeni Project">
+                    <img src="./OQAPIC.png" alt="OQA Project">
                     <div class="card-body">
                         <h5>Online Quran Academy Management System</h5>
                         <p><strong>Role:</strong> Full-stack developer - Designed database, backend, and frontend, and provided maintenance.</p>
@@ -232,7 +232,7 @@
             <!-- Office Management System -->
             <div class="col-12">
                 <div class="project-card">
-                <img src="./omspic.png" alt="Expeni Project">
+                <img src="./omspic.jpg" alt="OMS Project">
                     <div class="card-body">
                         <h5>Office Management System (OMS)</h5>
                         <p><strong>Role:</strong> Developer - Interacted with clients, gathered requirements, provided support and maintenance, and worked as a full-stack developer.</p>
@@ -273,7 +273,7 @@
             <!-- Gym Management System -->
             <div class="col-12">
                 <div class="project-card">
-                    <img src="./gmspic.png" alt="Expeni Project">
+                    <img src="./gmspic.png" alt="GMS Project">
                     <div class="card-body">
                         <h5>Gym Management System (GMS)</h5>
                         <p><strong>Role:</strong> Developer - Interacted with clients, gathered requirements, provided support and maintenance, and worked as a full-stack developer.</p>
