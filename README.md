@@ -16,11 +16,11 @@ Enthusiastic and detail-oriented software developer with extensive experience in
 
 ---
 
-## WORK EXPERIENCE ![Static Badge](https://img.shields.io/badge/3_Years-white?style=flat&logo=fsecure&logoColor=white&labelColor=blue&color=blue)
+## WORK EXPERIENCE ![Static Badge](https://img.shields.io/badge/3_Years_🥇🥈🥉-white?style=flat&color=blue)
 
 
 ### Asp.Net Core Developer, Panda Tech  
-*(01/04/2023 – 31/10/2024, Islamabad, Pakistan)*  
+*(01/04/2023 – 31/10/2024, Denmark (Remote))*  
 - Developed backend solutions using .NET Core, C#, and SQL Server, and frontend with ASP.NET MVC, Knockout.js, HTML, CSS, JavaScript, and jQuery.  
 - Managed version control with GitLab and Source Tree.  
 - Led a team of 3 developers, overseeing task assignments, code reviews, and project decisions.  
@@ -48,7 +48,7 @@ EQF Level: 7
 
 ### B.S (Computer Science)  
 Federal Urdu University of Arts, Sciences & Technology *(10/09/2019 – 11/08/2023, Islamabad, Pakistan)*  
-- ![Static Badge](https://img.shields.io/badge/GPA%3A_3%2C71/4%2C0-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue) (Equivalent to 1.5 in the German grading system)  
+- ![Static Badge](https://img.shields.io/badge/GPA%3A_3%2C71/4%2C0_🥈-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue) (Equivalent to 1.5 in the German grading system)  
 [www.fuuastisb.edu.pk](https://www.fuuastisb.edu.pk)  
 
 ### Supervised Machine Learning: Regression and Classification  
@@ -57,11 +57,11 @@ Stanford University *(Coursera)*
 ---
 
 ## RELEVANT COURSEWORK AND GRADES
-- **Machine Learning**  ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C0-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)
-- **Artificial Intelligence** – ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C6-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)
-- **Data Science** ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C0-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)
-- **Database Management Systems** ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C0-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)
-- **Design & Analysis of Algorithms** ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C0-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)
+- **Machine Learning**  ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C0_🥇-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)
+- **Artificial Intelligence** – ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C6_🥈-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)
+- **Data Science** ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C0_🥇-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)
+- **Database Management Systems** ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C0_🥇-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)
+- **Design & Analysis of Algorithms** ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C0_🥇-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)
 
 ---
 
@@ -71,24 +71,27 @@ Stanford University *(Coursera)*
 ![Static Badge](https://img.shields.io/badge/C%23-white?style=flat&logo=C&logoColor=white&labelColor=blue&color=blue)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-white?style=flat&logo=cplusplus&logoColor=black&labelColor=white&color=grey)
 ![Static Badge](https://img.shields.io/badge/Knockout.js-white?style=flat&logo=klook&logoColor=white&labelColor=black&color=blue)
-![Static Badge](https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript&logoColor=black&labelColor=purple&color=green)
+![Static Badge](https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript&logoColor=white&labelColor=black&color=green)
 ![Static Badge](https://img.shields.io/badge/SQL_server-white?style=flat&logo=sqlite&logoColor=white&labelColor=grey&color=grey) 
 - **Frontend**: ![Static Badge](https://img.shields.io/badge/HTML5-white?style=flat&logo=html5&logoColor=white&labelColor=black&color=%2523563D7C)
 ![Static Badge](https://img.shields.io/badge/CSS-white?style=flat&logo=css&logoColor=black&labelColor=white&color=orange)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-white?style=flat&logo=bootstrap&logoColor=black&labelColor=white&color=%2523563D7C)
-![Static Badge](https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript&logoColor=black&labelColor=purple&color=green)
+![Static Badge](https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript&logoColor=white&labelColor=black&color=green)
 ![Static Badge](https://img.shields.io/badge/jquery-white?style=flat&logo=jquery&logoColor=white&labelColor=grey&color=grey)
-- **Backend**: .NET / ![Static Badge](https://img.shields.io/badge/.Net_Core-white?style=flat&logo=dotnet&logoColor=white&labelColor=orange&color=orange) / .NET Framework
+- **Backend**: ![Static Badge](https://img.shields.io/badge/.NET-white?style=flat&color=blue)
+  ![Static Badge](https://img.shields.io/badge/.Net_Core-white?style=flat&logo=dotnet&logoColor=white&labelColor=orange&color=orange)
+  ![Static Badge](https://img.shields.io/badge/.Net_Framework-white?style=flat&color=grey)
 - **Development Tools**: ![Static Badge](https://img.shields.io/badge/git-white?style=flat&logo=git&logoColor=black&labelColor=white&color=blue)
 ![Static Badge](https://img.shields.io/badge/github-white?style=flat&logo=github&logoColor=black&labelColor=white&color=grey)
 ![Static Badge](https://img.shields.io/badge/SourceTree-white?style=flat&logo=sourcetree&logoColor=white&labelColor=blue&color=blue)
-- **Development Methodologies**: ![Static Badge](https://img.shields.io/badge/scrum-white?style=flat&logo=progress&logoColor=white&labelColor=grey&color=grey), Kanban
+- **Development Methodologies**: ![Static Badge](https://img.shields.io/badge/scrum-white?style=flat&logo=progress&logoColor=white&labelColor=grey&color=grey)
+  ![Static Badge](https://img.shields.io/badge/Kanban-white?style=flat&color=white)
+  ![Static Badge](https://img.shields.io/badge/Tools:_Trello,_Ajera-white?style=flat&color=blue)
 - **Web Development**: ![Static Badge](https://img.shields.io/badge/HTML5-white?style=flat&logo=html5&logoColor=white&labelColor=black&color=%2523563D7C)
 ![Static Badge](https://img.shields.io/badge/CSS-white?style=flat&logo=css&logoColor=black&labelColor=white&color=orange)
-![Static Badge](https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript&logoColor=black&labelColor=purple&color=green)
-- **Social Media Management**  
-- **Leadership**: Managed a team of 3  
-- **Organizational and Planning Skills**  
-- **Microsoft Office Tools**  
+![Static Badge](https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript&logoColor=white&labelColor=black&color=green)
+- **Leadership**: ![Static Badge](https://img.shields.io/badge/Managed_a_team_of_3-white?style=flat&color=white)
+- ![Static Badge](https://img.shields.io/badge/Social_Media_Management-white?style=flat&color=blue)
+-  ![Static Badge](https://img.shields.io/badge/Organizational_and_Planning_Skills-white?style=flat&color=grey)
+-  ![Static Badge](https://img.shields.io/badge/Microsoft_Office_Tools-white?style=flat&color=white)  
 
-Portfolio Resume
