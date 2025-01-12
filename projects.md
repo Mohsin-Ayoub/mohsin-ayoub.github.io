@@ -89,7 +89,7 @@
                                 <span class="achievement-badge">Streamlined processes with 40% improvement</span>
                                 <span class="achievement-badge">Delivered projects on time</span>
                             </div>
-                        </div>
+                        
 <p><strong>Description:</strong> Directed the development of a feature-rich Purchase Order solution to streamline procurement processes and enhance workflow efficiency.</p>
                         
                         <div class="">
@@ -104,7 +104,7 @@
                                 </ul>
                           
                         </div>
-                        //
+                        </div>
                         <a href="https://app.expeni.com/home/login" target="_blank">View Project</a>
                     </div>
                 </div>
@@ -137,7 +137,7 @@
                                 <span class="achievement-badge">Handled 3 schools and 5k users</span>
                                 <span class="achievement-badge">Enhanced efficiency by 40%</span>
                             </div>
-                        </div>
+                       
                          <p><strong>Description:</strong> An online-based Educational System with multiple modules to manage academic and administrative tasks efficiently.</p>
                       
                         <div class="">
@@ -155,6 +155,7 @@
                                 </ul>
                             </p>
                         </div>
+                         </div>
                         <a href="http://cms.islotechnologies.com" target="_blank">View Project</a>
                     </div>
                 </div>
@@ -174,7 +175,7 @@
                                 <span class="achievement-badge">Improved efficiency by 50%</span>
                                 <span class="achievement-badge">Handled 1 company and 120 users</span>
                             </div>
-                        </div>
+                        
 <p><strong>Description:</strong> A web-based system serving students, teachers, admin, and parents for managing academy activities.</p>
                         
                         <div class="">
@@ -191,6 +192,7 @@
                                     <li>Parent Portal</li>
                                 </ul>
                             </p>
+                        </div>
                         </div>
                     </div>
                 </div>
@@ -210,7 +212,7 @@
                                 <span class="achievement-badge">Improved efficiency by 50%</span>
                                 <span class="achievement-badge">Handled 1 company and 90 users</span>
                             </div>
-                        </div>
+                        
 <p><strong>Description:</strong> An application to facilitate buying and selling through auctions, enhancing reach and efficiency for users.</p>
                         
                         <div class="">
@@ -221,6 +223,7 @@
                                     <li>Seller</li>
                                 </ul>
                             </p>
+                        </div>
                         </div>
                     </div>
                 </div>
@@ -245,7 +248,7 @@
                                 <span class="achievement-badge">Improved efficiency by 50%</span>
                                 <span class="achievement-badge">Handled 2 companies and 200 users</span>
                             </div>
-                        </div>
+                        
  <p><strong>Description:</strong> A comprehensive system to manage various office operations effectively.</p>
                        
                         <div class="">
@@ -261,6 +264,7 @@
                                     <li>Operations Management</li>
                                 </ul>
                             </p>
+                        </div>
                         </div>
                     </div>
                 </div>
@@ -285,7 +289,7 @@
                                 <span class="achievement-badge">Improved efficiency by 50%</span>
                                 <span class="achievement-badge">Handled 2 companies and 200 users</span>
                             </div>
-                        </div>
+                        
 <p><strong>Description:</strong> A web-based solution to streamline gym operations and management.</p>
                        
                         <div class="">
@@ -299,6 +303,7 @@
                                     <li>Admin Panel</li>
                                 </ul>
                             </p>
+                        </div>
                         </div>
                     </div>
                 </div>
