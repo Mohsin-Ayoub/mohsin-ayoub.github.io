@@ -59,9 +59,9 @@ Stanford University *(Coursera)*
 
 ---
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
+| Course        | GPA         |
+|:-------------|:------------------|
+| **Machine Learning**           | good swedish fish |
 
 ## RELEVANT COURSEWORK AND GRADES
 - **Machine Learning**  ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C0_🥇-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)
