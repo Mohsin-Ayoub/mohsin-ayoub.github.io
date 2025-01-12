@@ -61,7 +61,7 @@ Stanford University *(Coursera)*
 
 | Course        | GPA         |
 |:-------------|:------------------|
-| **Machine Learning**           | good swedish fish |
+| **Machine Learning**           | ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C0_🥇-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue) |
 
 ## RELEVANT COURSEWORK AND GRADES
 - **Machine Learning**  ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C0_🥇-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)
@@ -73,7 +73,7 @@ Stanford University *(Coursera)*
 ---
 | Course                              | GPA                                                                                                                                  |
 |:------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------|
-| **Machine Learning**                | ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C0_🥇-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)  |
+| **Machine Learning** |![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C0_🥇whitestyle=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)|
 | **Artificial Intelligence**         | ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C6_🥈-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)  |
 | **Data Science**                    | ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C0_🥇-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)  |
 | **Database Management Systems**     | ![Static Badge](https://img.shields.io/badge/GPA%3A_1%2C0_🥇-white?style=flat&logo=tga&logoColor=white&labelColor=blue&color=blue)  |
