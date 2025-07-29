@@ -117,7 +117,7 @@
                     <div class="card-body">
                         <h5>Campus Management System (CMS)</h5>
                         <p><strong>Company:</strong> ISLO Technologies</p>
-                        <p><strong>Duration:</strong> 03/2021 - 08/2023</p>
+                        <p><strong>Duration:</strong> 09/2022 - 03/2023</p>
                         <p><strong>Tools:</strong> Asp.net MVC 5, C#, JavaScript, JQuery, Ajax, HTML, CSS, Bootstrap, SQL</p>
                         <p><strong>Role:</strong> Developer - Interacted with clients, gathered requirements, provided support and maintenance, and worked as a full-stack developer.</p>
                         <span class="show-more" onclick="toggleDescription(this)">Show more</span>
