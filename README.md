@@ -19,7 +19,7 @@ Enthusiastic and detail-oriented software developer with extensive experience in
 
 ---
 
-## WORK EXPERIENCE ![Static Badge](https://img.shields.io/badge/3_Years_🥇🥈🥉-white?style=flat&color=blue)
+## WORK EXPERIENCE ![Static Badge](https://img.shields.io/badge/2_Years_🥇🥈-white?style=flat&color=blue)
 
 
 ### Asp.Net Core Developer, Panda Tech  
@@ -30,7 +30,7 @@ Enthusiastic and detail-oriented software developer with extensive experience in
 - Ensured project timelines and milestones were met through effective sprint management.  
 
 ### Asp.Net MVC Developer, ISLO Technologies (Pvt.) Ltd  
-*(01/08/2021 – 31/03/2023, Rawalpindi, Pakistan)*  
+*(01/09/2022 – 31/03/2023, Rawalpindi, Pakistan)*  
 - Developed overall application from scratch.  
 - Added new features to the application.  
 - Solved complex problems and fixed bugs to ensure application reliability.  
